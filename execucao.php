@@ -20,8 +20,6 @@ $pratos = array(
 
 $pedidos = [];
 
-print_r($pratos);
-
 do {
     echo "\n\n------BONA COMIDA------\n";
     echo "1- Cadastrar\n";
